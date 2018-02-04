@@ -1,0 +1,68 @@
+Page 1
+
+CoordReference:  40, 750  61, 64
+		550, 50  841, 1134    110-dpi
+
+FontSz 10
+no_zero_entries
+no_commas
+round_to_whole_numbers
+solid_status_check 11 4 20 .
+
+ YourSocSec#: 	122 190 0 12
+ SpouseSocSec#: 360 190 0 12
+ YourLastName:	116 250
+ Your1stName:	116 299
+ MidInitial:	479 299
+ Spouse1stName: 116 345
+ SpouseMidInit: 479 345
+ SpouseLastName: 116 392
+
+ Number&Street:	116 441 0
+ Town:		116 536 0
+ State:		435 536 0
+ Zipcode: 	502 536 0 13
+
+ Check_single   643 306 0
+ Check_mfj      643 323 0
+ Check_sep      643 339 0
+
+ Phone:		116 583 0 11
+ SchoolCode:    502 583 0 11
+ SchooldDist:   721 563
+ YourOccupation: 638 600
+ SpouseOccupat:  739 600
+
+ L1a	655 634 12
+ L1b    655 666 12
+
+
+
+Page 2
+CoordReference:  40, 750  61, 64
+		550, 50  841, 1134    110-dpi
+
+ YourSocSec#:	206 130 0 12
+ YourNames:	462 132 0
+ 
+ L12 642 164 12
+
+
+
+
+Page 3
+CoordReference:  40, 750  61, 64
+		550, 50  841, 1134    110-dpi
+
+ YourSocSec#:	206 130 0 12
+ YourNames:	462 132 0
+
+
+
+Page 4
+CoordReference:  40, 750  61, 64
+		550, 50  841, 1134    110-dpi
+
+ YourSocSec#:	206 130 0 12
+ YourNames:	462 132 0
+
